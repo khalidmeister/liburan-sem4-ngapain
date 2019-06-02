@@ -7,6 +7,7 @@ Haha, ini mungkin gue mencoba dulu untuk mengepush sejauh mana target yang telah
 Terus, kira-kira butuh apa aja ya?
 
 ## Hari ke-1: Belajar Flutter OOP
+![OOP](https://content-static.upwork.com/blog/uploads/sites/3/2015/05/05193125/Intro-object-oriented-programming.png)
 Tadi udah belajar OOP menggunakan Dart dan bisa dibilang cukup mudah tidak seperti saudaranya, yakni Java. OOP sendiri terdiri dari 4 prinsip, yakni:
 
 1. Abstraction (Membagi potongan kode sesuai dengan perannya masing2 ke dalam class)
