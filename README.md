@@ -17,3 +17,9 @@ Tadi udah belajar OOP menggunakan Dart dan bisa dibilang cukup mudah tidak seper
 Di Flutter, semua komponen di tampilan berupa widget dan dalam pembuatannya banyak menerapkan OOP untuk memudahkan pembacaan kode.
 
 Sekarang, mau coba kembangin User Interfacenya, let's go!
+
+## Hari ke-2: Belajar Asynchronous Programming dan Selesain materi / project Course Flutter di Appbrewery
+![Asynchronous vs Synchronous](https://msl-network.readthedocs.io/en/latest/_images/sync_vs_async.png)
+
+Untuk projek, tadi ngerjain yang ID Card dan 8 Ball. Karena udah punya pengalaman di Stateless dan Stateful Widget, untuk ngoding tidak ada masalah sehingga semuanya lancar. Namun, yang menjadi tantangan adalah ketika mempelajari mengenai keyword **Future**, **Async**, dan **Await**. Untuk ini, harus memahami yang namanya **Asynchronous Programming**. 
+Untuk memahami ini, diberikan suatu permasalahan dimana ada tugas untuk menelepon klien dan mendapatkan respon sebanyak 100 orang dan waktu yang diberikan sedikit. Untuk menyelesaikan ini, ada 2 cara, yakni dengan menelpon lalu menunggu dengan respon dan diulangi lagi sebanyak 100 kali. Ini namanya **Synchronous Programming**, menyelesaikan satu tugas terlebih dahulu sebelum lanjut ke yang lain. Lalu, cara lain seperti berikut, seseorang menelpon dan saat menunggu respon dia menelpon kembali dan diulangi sebanyak 100 kali. Ini namanya **Asynchronous Programming**. Perbedaan signifikan terlihat ketika saat satu tugas sedang dilaksanakan, maka tugas lain akan dilaksanakan dulu lalu yang ditunggu tadi pun selesai.
